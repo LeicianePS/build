@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e95bf960.css",
+    "main.js": "/static/js/main.4c5a3476.js",
+    "static/media/brasao_mt.png": "/static/media/brasao_mt.7a3a3aec522cd2b6f903.png",
+    "static/media/logo_govmt.png": "/static/media/logo_govmt.9e34d8215a135fe4737d.png",
+    "static/media/login_img.png": "/static/media/login_img.0de24b682c38de1f2da4.png",
+    "index.html": "/index.html",
+    "main.e95bf960.css.map": "/static/css/main.e95bf960.css.map",
+    "main.4c5a3476.js.map": "/static/js/main.4c5a3476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e95bf960.css",
+    "static/js/main.4c5a3476.js"
+  ]
+}
